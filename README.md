@@ -1,7 +1,7 @@
 # talk-is-overrated
 Basic **Chat App** made using Node.js, Socket.io and HTML, CSS for the front end.
 
-**The web application can be accessed at [talk is overrateed] (https://talk-is-overrated.herokuapp.com)**
+**The web application can be accessed at [talk is overrated](https://talk-is-overrated.herokuapp.com)**
 
 To run it locally, you can clone this repository using `git clone https://github.com/nileshnj993/talk-is-overrated.git`. Once cloned, use `npm install` to download the dependencies. Use `npm run dev` to get the server running. The web app can then be accessed at http://localhost:3000. 
 
@@ -16,4 +16,4 @@ To run it locally, you can clone this repository using `git clone https://github
 2. Submitting the joining form with either of username or room left empty is not allowed.
 3. Empty messages can't be sent.
 
-Socket.io is an amazing JS library for realtime web and chat applications. The documentation is available at [Socket.io] (https://socket.io/docs/v4).
+Socket.io is an amazing JS library for realtime web and chat applications. The documentation is available at [Socket.io](https://socket.io/docs/v4).
