@@ -1,7 +1,7 @@
 # talk-is-overrated
 Basic **Chat App** made using Node.js, Socket.io and HTML, CSS for the front end.
 
-**The web application can be accessed at [talk is overrated](https://talk-is-overrated.herokuapp.com)**
+**The web application can be accessed at [talk is overrated](https://talk-is-overrated.herokuapp.com)**.
 
 To run it locally, you can clone this repository using `git clone https://github.com/nileshnj993/talk-is-overrated.git`. Once cloned, use `npm install` to download the dependencies. Use `npm run dev` to get the server running. The web app can then be accessed at http://localhost:3000. 
 
