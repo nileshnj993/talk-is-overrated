@@ -10,6 +10,7 @@ To run it locally, you can clone this repository using `git clone https://github
 2. Sending your current location if you grant the permission to do so.
 3. Displaying name of room, and all users currently in room when you join.
 4. Getting notified about users leaving and joining the room.
+5. Profanity not allowed. The message won't get sent.
 
 **A few edge cases have been handled, such as:**
 1. Joining a room with a username that has already been taken is not allowed.
